@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomToast</string>
+    <string name="btn">Button</string>
+    <string name="texi">Texi</string>
+    <string name="bus">BUS</string>
+
+</resources>
